@@ -1,3 +1,3 @@
-# Pascal-s-Triangle-Generator-Python
-A Simple Pascal's triangle generator without using math's factorial function
-just another script in a holiday night
+# Pascal-s-Triangle-Generator
+This was first started as a python project on a holiday night.Then Later i started to learn go and tried to make this in go.
+Thx @cleanMachin1 for helping me for the go code
